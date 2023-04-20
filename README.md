@@ -6,6 +6,7 @@ Atualizações na jungle!
 2 kha
 3 sejuani
 4 jarvan
+5 kindred
 
 
 
