@@ -2,10 +2,10 @@
 
 Atualizações na jungle!
 
-lee sin
-kha
-sejuani
-
+1 lee sin
+2 kha
+3 sejuani
+4 jarvan
 
 
 
